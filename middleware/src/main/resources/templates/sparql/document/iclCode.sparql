@@ -1,7 +1,0 @@
-PREFIX vivo: <http://vivoweb.org/ontology/core#>
-
-CONSTRUCT {
-    <[(${uri})]> vivo:iclCode ?iclCode .
-} WHERE {
-    <[(${uri})]> vivo:iclCode ?iclCode .
-}

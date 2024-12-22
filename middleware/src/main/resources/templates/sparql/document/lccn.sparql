@@ -1,7 +1,0 @@
-PREFIX bibo: <http://purl.org/ontology/bibo/>
-
-CONSTRUCT {
-    <[(${uri})]> bibo:lccn ?lccn .
-} WHERE {
-    <[(${uri})]> bibo:lccn ?lccn .
-}

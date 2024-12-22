@@ -1,1 +1,0 @@
-{{#if keywords}}{{keywords}}{{/if}}

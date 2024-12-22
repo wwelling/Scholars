@@ -1,1 +1,0 @@
-{{#if affiliatedResearchAreas}}{{#each affiliatedResearchAreas}}{{label}}, {{/each}}{{/if}}

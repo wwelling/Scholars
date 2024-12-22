@@ -1,7 +1,0 @@
-PREFIX bibo: <http://purl.org/ontology/bibo/>
-
-CONSTRUCT {
-    <[(${uri})]> bibo:chapter ?chapter .
-} WHERE {
-    <[(${uri})]> bibo:chapter ?chapter .
-}
