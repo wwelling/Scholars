@@ -1,0 +1,3 @@
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/wwelling/scholars-discovery.git
