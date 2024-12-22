@@ -7,3 +7,6 @@
 [submodule "embed-utilities"]
 	path = embed-utilities
 	url = https://github.com/wwelling/scholars-embed-utilities.git
+[submodule "embed"]
+	path = embed
+	url = https://github.com/wwelling/scholars-embed.git
