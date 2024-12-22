@@ -10,3 +10,6 @@
 [submodule "embed"]
 	path = embed
 	url = https://github.com/wwelling/scholars-embed.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/wwelling/scholars-cli.git
