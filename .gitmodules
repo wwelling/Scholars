@@ -4,3 +4,6 @@
 [submodule "angular"]
 	path = angular
 	url = https://github.com/wwelling/scholars-angular.git
+[submodule "embed-utilities"]
+	path = embed-utilities
+	url = https://github.com/wwelling/scholars-embed-utilities.git
